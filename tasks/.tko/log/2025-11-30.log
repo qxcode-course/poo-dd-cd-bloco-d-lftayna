@@ -1,0 +1,87 @@
+2025-11-30 00:01:05, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 00:01:09, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 00:01:11, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0
+2025-11-30 00:11:44, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:88
+2025-11-30 00:12:31, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:88
+2025-11-30 00:15:17, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:92
+2025-11-30 00:20:19, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 00:20:22, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 00:20:23, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0
+2025-11-30 00:30:27, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:94
+2025-11-30 00:31:14, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:94
+2025-11-30 00:32:19, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:95
+2025-11-30 00:47:00, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 00:47:08, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 00:47:08, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0
+2025-11-30 00:50:24, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:95
+2025-11-30 00:56:07, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 00:56:09, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 00:56:10, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0
+2025-11-30 01:00:27, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:96
+2025-11-30 01:00:50, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:95
+2025-11-30 01:00:58, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 01:01:00, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 01:01:01, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0
+2025-11-30 01:01:03, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 01:01:09, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 01:01:10, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0
+2025-11-30 01:07:29, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 01:07:36, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 01:07:37, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0
+2025-11-30 01:16:11, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:100
+2025-11-30 01:16:50, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 01:17:04, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 01:17:06, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0
+2025-11-30 01:21:23, EXEC, v:1, k:poo@agenda, mode:FULL, rate:12, size:100
+2025-11-30 01:28:06, EXEC, v:1, k:poo@agenda, mode:FULL, rate:12, size:100
+2025-11-30 01:29:27, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:100
+2025-11-30 01:35:43, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:107
+2025-11-30 01:36:04, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:107
+2025-11-30 01:37:26, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 01:37:36, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 01:37:37, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25
+2025-11-30 01:40:55, EXEC, v:1, k:poo@agenda, mode:FULL, rate:37, size:115
+2025-11-30 01:41:38, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 01:41:42, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 01:41:43, EXEC, v:1, k:poo@agenda, mode:FULL, rate:37
+2025-11-30 01:47:30, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 01:47:34, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 01:47:35, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:112
+2025-11-30 01:52:13, EXEC, v:1, k:poo@agenda, mode:FULL, rate:37, size:121
+2025-11-30 01:53:57, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:115
+2025-11-30 01:55:26, EXEC, v:1, k:poo@agenda, mode:FULL, rate:37, size:115
+2025-11-30 01:57:19, EXEC, v:1, k:poo@agenda, mode:FULL, rate:37, size:118
+2025-11-30 01:57:53, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 01:57:57, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 01:57:59, EXEC, v:1, k:poo@agenda, mode:FULL, rate:37
+2025-11-30 02:00:17, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:118
+2025-11-30 02:00:38, EXEC, v:1, k:poo@agenda, mode:FULL, rate:37, size:118
+2025-11-30 02:01:06, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 13:41:34, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 13:41:36, EXEC, v:1, k:poo@agenda, mode:FULL, rate:37
+2025-11-30 13:44:49, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:111
+2025-11-30 13:45:10, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:111
+2025-11-30 13:46:43, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:105
+2025-11-30 14:02:23, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:108
+2025-11-30 14:13:43, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:110
+2025-11-30 14:14:06, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:110
+2025-11-30 14:14:33, EXEC, v:1, k:poo@agenda, mode:FULL, rate:37, size:110
+2025-11-30 14:18:26, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:113
+2025-11-30 14:19:47, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:113
+2025-11-30 14:20:19, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:113
+2025-11-30 14:21:08, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:113
+2025-11-30 14:21:23, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:113
+2025-11-30 14:22:03, EXEC, v:1, k:poo@agenda, mode:FULL, rate:37, size:110
+2025-11-30 14:25:31, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:112
+2025-11-30 14:26:45, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:112
+2025-11-30 14:27:05, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 14:27:11, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 14:27:12, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25
+2025-11-30 14:29:22, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:114
+2025-11-30 14:30:31, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:117
+2025-11-30 14:32:08, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:117
+2025-11-30 14:32:25, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:117
+2025-11-30 14:33:00, EXEC, v:1, k:poo@agenda, mode:FULL, rate:25, size:116
+2025-11-30 14:33:53, MOVE, v:1, k:poo@agenda, mode:BACK
+2025-11-30 14:34:00, MOVE, v:1, k:poo@agenda, mode:PICK
+2025-11-30 14:34:00, EXEC, v:1, k:poo@agenda, mode:FULL, rate:0, size:116
