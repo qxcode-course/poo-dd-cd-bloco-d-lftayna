@@ -79,6 +79,7 @@ def main():
             elif args[0] == "tfav":
                 contact.tooglefavourite()
 
+
             else:
                 print("comando invalido")
         except Exception as e:
